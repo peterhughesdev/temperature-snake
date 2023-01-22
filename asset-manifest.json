@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/temperature-snake/static/css/main.073c9b0a.css",
+    "main.js": "/temperature-snake/static/js/main.010a332f.js",
+    "static/js/787.ed7c5c89.chunk.js": "/temperature-snake/static/js/787.ed7c5c89.chunk.js",
+    "static/media/logo.svg": "/temperature-snake/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/temperature-snake/index.html",
+    "main.073c9b0a.css.map": "/temperature-snake/static/css/main.073c9b0a.css.map",
+    "main.010a332f.js.map": "/temperature-snake/static/js/main.010a332f.js.map",
+    "787.ed7c5c89.chunk.js.map": "/temperature-snake/static/js/787.ed7c5c89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.010a332f.js"
+  ]
+}
